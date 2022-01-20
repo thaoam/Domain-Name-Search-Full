@@ -1,6 +1,6 @@
-# Domain Name Search ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffaridnizam%2Fuptime%2Fmaster%2Fapi%2Fcek-domain%2Fuptime.json) ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ffaridnizam%2Fuptime%2Fmaster%2Fapi%2Fcek-domain%2Fresponse-time.json)
+# Domain Name Search 
 
-🔍 Mencari ketersedian nama domain sebelum membeli domain.
+🔍 Search domain available for register.
 
 ## ✨ Made with
 
@@ -27,4 +27,4 @@ JEKYLL_ENV=production jekyll build
 
 ## 📄 License
 
-This Project is Under [MIT License](LICENSE) &copy; 2021 Farid Nizam
+This Project is Under [MIT License](LICENSE) &copy; 2021 Tiep
