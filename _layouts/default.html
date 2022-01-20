@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang={{ page.lang | default: "en" }}>
+  <head>
+  {%- include head.html -%}
+  </head>
+  <body>
+    {% include umami.html %}
+    {% include landing.html %}
+    {% include js-init.html %}
+  </body>
+</html>
